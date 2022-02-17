@@ -1,0 +1,8 @@
+.square{
+  content: "";
+  width: 100px;
+  height: 100px;
+}
+body{
+  background-color: black;
+}
